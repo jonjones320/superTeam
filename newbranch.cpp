@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int newBranch()
 {
     std::cout << "not the best programmer \n"<< std::endl;
     return 0;
