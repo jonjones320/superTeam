@@ -6,6 +6,6 @@ int main() {
     std::cout<<"Hello World\n";
     std::cout<<"Hey\n";
     foo();
-    return 0;
     boo();
+    return 0;
 }
