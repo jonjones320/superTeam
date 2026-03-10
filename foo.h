@@ -5,6 +5,7 @@
 int foo()
 {
     std::cout << "this is foo function\n";
+    return 1;
 }
 
 #endif
