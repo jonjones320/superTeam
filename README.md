@@ -1,11 +1,9 @@
-git checkout -b mainFunction
-
-git push --set-upstream origin mainFunction
-make new branch (named "mainFunction")`git checkout -b mainFunction`  
-switch to mainFunction: `git checkout mainFunction`  
-to master: `git checkout master`  
-
-testing testing  
-
 Show all local branches:   
 `git branch`  
+
+1. Create branch: `git checkout -b [new branch]`
+2. Publish remote
+3. Check out branch: `git checkout [branch name]` 
+4. Make changes to functions
+5. Stage and commit: `git add` and `git commit -m "message"`
+6. Push to remote: `git push --set-upstream origin [function name]` or `git push`
