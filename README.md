@@ -1,5 +1,5 @@
-Show all local branches:   
-`git branch`  
+Show all local branches: `git branch`  
+Show current branch: `git status`
 
 1. Create branch: `git checkout -b [new branch]`
 2. Publish remote
